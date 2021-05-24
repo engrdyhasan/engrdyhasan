@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me username: engrdyhasan userpassward: ASDFjkl;9
+- 📫 How to reach me username: engrdyhasan userpassward: 
+- 
 
 <!---
 engrdyhasan/engrdyhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
